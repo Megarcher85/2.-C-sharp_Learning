@@ -1,0 +1,14 @@
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\bin\Debug\net7.0\Task3.exe
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\bin\Debug\net7.0\Task3.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson1\Task3\obj\Debug\net7.0\ref\Task3.dll
