@@ -1,0 +1,14 @@
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\bin\Debug\net7.0\S2HWTask3.exe
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\bin\Debug\net7.0\S2HWTask3.deps.json
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\bin\Debug\net7.0\S2HWTask3.runtimeconfig.json
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\bin\Debug\net7.0\S2HWTask3.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\bin\Debug\net7.0\S2HWTask3.pdb
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\refint\S2HWTask3.dll
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.pdb
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\S2HWTask3.genruntimeconfig.cache
+C:\Users\Артур\Desktop\Programming_PRACTICE\2. C-sharp_Learning\Lesson2\Seminar2\S2HWTask3\obj\Debug\net7.0\ref\S2HWTask3.dll
